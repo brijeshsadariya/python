@@ -1,0 +1,36 @@
+{
+  "name": "github-crawl",
+  "version": "1.0.4",
+  "description": "Clone all the public repositories of a given user",
+  "main": "clone-all-repos.sh",
+  "scripts": {
+    "start": "bin/clone.sh $1 $2 $3",
+    "clone": "bin/clone.sh $1 $2 $3",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "github-crawl": "bin/clone.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisbuchbinder/github-crawl.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Clone",
+    "Repositories",
+    "All",
+    "Every",
+    "Terminal",
+    "Shell"
+  ],
+  "author": "Louis Buchbinder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louisbuchbinder/github-crawl/issues"
+  },
+  "homepage": "https://github.com/louisbuchbinder/github-crawl#readme",
+  "dependencies": {
+    "rl-stdin": "^1.0.1"
+  }
+}
