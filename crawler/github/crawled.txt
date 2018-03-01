@@ -2,6 +2,7 @@ https://community.github.com/
 https://desktop.github.com/
 https://developer.github.com
 https://education.github.com/
+https://education.github.community/t/a-tool-to-clone-a-lot-of-student-repos-at-once/19678
 https://github.com/
 https://github.com/about
 https://github.com/blog
@@ -17,6 +18,7 @@ https://help.github.com
 https://help.github.com/articles/about-project-boards/
 https://help.github.com/articles/github-security/
 https://help.github.com/articles/github-terms-of-service/
+https://help.github.com/articles/managing-your-work-with-issues/
 https://help.github.com/privacy
 https://help.github.com/terms
 https://partner.github.com/
@@ -43,10 +45,14 @@ https://www.github.com/about/press
 https://www.github.com/articles/about-pull-request-reviews
 https://www.github.com/articles/about-releases
 https://www.github.com/articles/about-stars
+https://www.github.com/articles/adding-information-to-your-organization-s-receipts
+https://www.github.com/articles/applying-labels-to-issues-and-pull-requests
 https://www.github.com/articles/changing-a-saved-reply
+https://www.github.com/articles/configuring-how-you-receive-notifications
 https://www.github.com/articles/downgrading-an-app-for-your-organization
 https://www.github.com/articles/error-repository-not-found
 https://www.github.com/articles/filtering-issues-and-pull-requests
+https://www.github.com/articles/github-pre-release-program
 https://www.github.com/articles/page-build-failed-file-is-a-symlink
 https://www.github.com/articles/sharing-filters
 https://www.github.com/articles/splitting-a-subfolder-out-into-a-new-repository
@@ -72,6 +78,7 @@ https://www.github.com/join?plan=business&setup_organization=true&source=busines
 https://www.github.com/join?source=button-home
 https://www.github.com/join?source=header-home
 https://www.github.com/login
+https://www.github.com/login?return_to=%2Fjoin%3Fsource%3Dbutton-home
 https://www.github.com/login?return_to=%2Fkelseyhightower%2Fnocode
 https://www.github.com/marketplace
 https://www.github.com/open-source
